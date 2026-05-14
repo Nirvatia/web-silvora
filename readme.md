@@ -2,7 +2,7 @@
 
 ## Deploy
 
-https://vizereth.github.io/portfolio-silvora
+https://vizereth.github.io/web-silvora
 
 ## Project setup
 ```
