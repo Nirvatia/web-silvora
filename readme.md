@@ -1,9 +1,5 @@
 # Portfolio Template - Silvora
 
-## Deploy
-
-https://vizereth.github.io/web-silvora
-
 ## Project setup
 ```
 npm install
